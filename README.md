@@ -46,17 +46,21 @@ Meu objetivo é atuar em ambientes que valorizem:
 - **Java** (ênfase em Programação Orientada a Objetos)  
 - **C**  
 - **PHP**
+- **REACT**
+- **TypeScript / JavaScript**
 
 ### Banco de Dados
 - **SQL Server**  
-- **MySQL**
+- **MySQL Workbench**
+- **MongoDB**
 
 ### Frameworks e Estudos Atuais
 - **Spring Boot** (em fase de aprofundamento)  
 - Desenvolvimento de **APIs REST**  
 
 ### Conceitos Técnicos
-- Programação Orientada a Objetos (POO)  
+- Programação Orientada a Objetos (POO)
+- Clean Code e SOLID
 - Estruturação de projetos  
 - Versionamento com Git  
 - Organização de código e boas práticas  
